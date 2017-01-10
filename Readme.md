@@ -1,5 +1,12 @@
 
-Hej
+Spel: Marvelnot
+
+Appen liknar ett rollspel där man är huvudpersonen som 
+stöter på olika vägskäl och situationer. 
+
+I vissa skeden gör man ett definitivt val. 
+
+Dessa val leder sedan vidare till situationer med slumpmässig utgång.
 
 Efter att spelaren har sett byn ligga i spillror 
 får spelaren välja mellan Desert, Mountains eller 
@@ -20,11 +27,21 @@ T ex Desert/Mountain/Jungle.
 Under spelets gång tickar en klocka. Målet med spelet är att ta sig 
 till slutdestinationen på kortast tid. 
 
-Vad spelaren inte vet från början är vad slutdestinationen är: 
-Noas ark. Spelaren ska under färden träffa en kvinna som får 
-följa med på arken; för spelaren får reda på ganska sent att han
-är Noahs son. 
+I princip är spelet uppbyggt av flervalsfrågor, och slumpgenererade konsekvenser. 
+Det som ska göra spelet attraktivt och spännande är de korta videosekvenser (i form
+av GIF-animationer) där konsekvenserna av ens val utspelar sig. Det ska vara en 
+suggestiv ton som andas äventyr och mystik. 
 
-Om möjlighet finns (i mån av tid och resurser), kan man välja att spela 
+Tillägg: 
+
+1. Om möjlighet ges (i mån av tid och resurser), kan man välja att spela 
 spelet ur en kvinnas perspektiv. 
+2. Om möjlighet ges, ska texten följas åt med en berättarröst. 
+
+
+Så förutom kodning för frågor och konsekvenser, ska koden innehålla referenser 
+till bildfiler och kanske också ljudfiler.
+
+/Ändrad 2017-01-10  
+ 
 
