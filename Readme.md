@@ -1,5 +1,5 @@
 
-
+Hej
 
 Efter att spelaren har sett byn ligga i spillror 
 får spelaren välja mellan Desert, Mountains eller 
